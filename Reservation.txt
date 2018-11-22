@@ -2,13 +2,4 @@ Room Type   :
 	1 Regular
 	2 Deluxe
 
- +------------------+
- |                  |
- |  1 Deluxe        |
- |  2 		    |
- |                  | 
- |                  |     
- |                  | 
- |                  | 
- |                  |  
- +------------------+Room Number :
+Room Number :
