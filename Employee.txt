@@ -1,1 +1,3 @@
-Employee ID: [_________]
+
+Firstname  : [_________]
+Lastname   : [_________]
